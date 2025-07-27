@@ -15,6 +15,7 @@ Using third-party phone management software
 Switching between different phones or USB ports
 
 
+
 🚨 Common Issues It Solves
 ❗ "MTP USB Device" shows a yellow exclamation mark in Device Manager
 
@@ -27,6 +28,7 @@ Switching between different phones or USB ports
 ❌ "The drivers for this device are not installed"
 
 💻 Windows doesn't detect the phone in File Explorer
+
 
 
 🛠 How to Use
@@ -57,6 +59,7 @@ Make sure to run it as Administrator, or it won’t have permission to uninstall
 Use this fix only if you are experiencing MTP/USB-related problems.
 
 
+
 💡 Extra Tips
 Try a different USB cable (some cables are charge-only)
 
@@ -65,6 +68,7 @@ Use a direct USB port (avoid USB hubs)
 Enable File Transfer (MTP) mode on your phone when connected
 
 Turn on Developer Options > USB Debugging if needed
+
 
 
 🔍 Related Search Keywords (for SEO)
@@ -87,6 +91,7 @@ mtp usb fix bat powershell
 phone connected but not showing up in file explorer
 
 windows mtp driver cleanup
+
 
 
 🧾 License
