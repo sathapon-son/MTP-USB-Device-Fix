@@ -32,7 +32,7 @@ Switching between different phones or USB ports
 💻 Windows doesn't detect the phone in File Explorer
 
 
-🎬 [Click here to watch the demo video](img/video.mp4)
+🎬 [Click here to watch the video](https://youtu.be/97D1Oyx_aRQ)
 
 🛠 How to Use
 Download MTP USB Device Fix.bat
