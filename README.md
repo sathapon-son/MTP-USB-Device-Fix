@@ -15,6 +15,8 @@ Using third-party phone management software
 Switching between different phones or USB ports
 
 
+![MTP Error](img/1.jpg)
+![MTP Error](img/2.jpg)
 
 🚨 Common Issues It Solves
 ❗ "MTP USB Device" shows a yellow exclamation mark in Device Manager
@@ -30,6 +32,7 @@ Switching between different phones or USB ports
 💻 Windows doesn't detect the phone in File Explorer
 
 
+🎬 [Click here to watch the demo video](img/video.mp4)
 
 🛠 How to Use
 Download MTP USB Device Fix.bat
